@@ -1,0 +1,14 @@
+Lake Sensors
+      │
+      ▼
+Data Collection
+      │
+      ▼
+CSV Storage
+      │
+      ▼
+Lake Monitoring System
+      │
+ ┌────┴────┐
+ ▼         ▼
+View Data  AI Chatbot
