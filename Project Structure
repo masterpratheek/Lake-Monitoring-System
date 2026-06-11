@@ -1,0 +1,16 @@
+smart-lake-monitoring-system/
+│
+├── main.py
+├── lakes.csv
+├── README.md
+├── requirements.txt
+├── LICENSE
+├── .gitignore
+│
+├── screenshots/
+│   ├── home_screen.png
+│   ├── lake_details.png
+│   └── chatbot.png
+│
+└── docs/
+    └── architecture.png
